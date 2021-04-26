@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @LuckyLukr
-- 👀 I’m interested in React, Material ui, Node JS, Vue JS, Angular2
-- 🌱 I’m currently learning NestJS
+- 👋 Hi, I’m Lukas
+- 👀 I’m interested in Front-End development using React library and Material ui as CSS framework
+- 🌱 I’m currently learning Angular 2 - 11
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
