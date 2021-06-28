@@ -1,4 +1,4 @@
-### Hello World 👋
+### Hi there 👋
 I am a frontend software engineer from Czechia
 - 🔭 Working on multiple frontend and backend project using React and Nodejs
 - 🌱 Learning design patterns in depth
