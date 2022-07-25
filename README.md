@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am a software engineer from Czechia
-- 🔭 Working on multiple frontend and backend projects using React, GraphQL, NodeJS and Python
+- 🔭 Working on multiple frontend and backend projects using React with TS, GraphQL, NodeJS and Python
 <br>
 
 ## Connect with me
